@@ -1,3 +1,4 @@
 apple\nbananana\ncherry\ndragon fruit
 figs
 Elderberries
+Fruitgit push -u origin main
